@@ -1,18 +1,9 @@
 package com.nttdata.steps;
-import com.nttdata.page.CategoryPage;
 import com.nttdata.page.ProductPage;
-import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.interactions.Actions;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 
-import java.time.Duration;
-
-import static com.nttdata.core.DriverManager.getDriver;
-import static com.nttdata.page.LoginPage.usernameInput;
 
 public class ProductStep {
     private WebDriver driver;

@@ -1,6 +1,6 @@
 package com.nttdata.steps;
 import com.nttdata.page.CarPage;
-import org.junit.jupiter.api.Assertions;
+
 import org.openqa.selenium.WebDriver;
 
 import static org.junit.jupiter.api.Assertions.*;
