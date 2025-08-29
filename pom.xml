@@ -58,6 +58,12 @@
             <scope>test</scope>
         </dependency>
         <!-- Proyecto CON CUCUMBER-->
+        <dependency>
+            <groupId>io.cucumber</groupId>
+            <artifactId>cucumber-picocontainer</artifactId>
+            <version>7.18.0</version>
+            <scope>test</scope>
+        </dependency>
 
     </dependencies>
 
